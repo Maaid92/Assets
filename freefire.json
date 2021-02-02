@@ -1,0 +1,258 @@
+{
+    "FACEBOOK_INTERSTITIAL":"184669246650973_201027278348503h",
+	"FACEBOOK_NATIVEBANNER":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635h",
+	"FACEBOOK_NATIVE":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025h",
+
+	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/1033173712h",
+	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/2247696110h",
+
+
+
+
+    "BTNSHEIGHT":200,
+    
+    "MORESHOW":"true",
+    "URL_SPLASHBTN":"https://cadeauforu.com/Guides/SignalAssets/qw.png",
+    
+    
+    
+    "URL_BTN1":"https://cadeauforu.com/Guides/SignalAssets/btn1.webp",
+	"URL_BTN2":"https://cadeauforu.com/Guides/SignalAssets/btn2.webp",
+	"URL_BTN3":"https://cadeauforu.com/Guides/SignalAssets/btn3.webp",
+	"URL_BTN4":"https://cadeauforu.com/Guides/SignalAssets/btn4.webp",
+	"URL_BTN5":"https://cadeauforu.com/Guides/SignalAssets/btn4.webp",
+	"URL_BTN6":"https://cadeauforu.com/Guides/SignalAssets/btn4.webp",
+	
+	
+	"BG_IMG":"https://fsa.zobj.net/crop.php?r=WOcKIY5M_uklynIvKUISba6klhwNpMpB04Gdn-R8V7duPxqANlWhgZIGGBRllpu567WJ6YiXXjndD4xsf7xUns2BBUpQW9p7W9veSfFXgQyHcSR4VqvsrrEqiZPJp3wTtxyYQwJD7M_500DL",
+	
+	
+	"BTN1_SHOW":"false",
+	"BTN1_NAME":"Signal App",
+	"BTN1_LINK":"https://cadeauforu.com/Guides/SignalAssets/home.htm",
+	
+	
+	"BTN2_SHOW":"false",
+	"BTN3_SHOW":"false",
+	"BTN4_SHOW":"false",
+	"BTN5_SHOW":"false",
+	"BTN6_SHOW":"false",
+
+
+    "TextBTN":"Next",
+	
+	
+
+
+	"GR1RVIMGWIDTH":900,
+	"GR1RVIMGHEIGHT":600,
+   "group1":[         
+					
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_andrew.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_andrew.htm",
+						"name":"andrew"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_antonio.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_antonio.htm",
+						"name":"antonio"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_carroline.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_carroline.htm",
+						"name":"carroline"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_ford.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_ford.htm",
+						"name":"ford"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_hayato.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_hayato.htm",
+						"name":"hayato"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_kelly.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_kelly.htm",
+						"name":"kelly"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_kla.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_kla.htm",
+						"name":"kla"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_maxim.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_maxim.htm",
+						"name":"maxim"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_miguel.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_miguel.htm",
+						"name":"miguel"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_misha.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_misha.htm",
+						"name":"misha"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_moco.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_moco.htm",
+						"name":"moco"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_nikita.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_nikita.htm",
+						"name":"nikita"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_olivia.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_olivia.htm",
+						"name":"olivia"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_paloma.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_paloma.htm",
+						"name":"paloma"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_wukong.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/c_wukong.htm",
+						"name":"wukong"
+					}
+					
+					
+					
+					
+	],
+	"GR2RVIMGWIDTH":400,
+	"GR2RVIMGHEIGHT":200,
+	"group2":[
+	    
+	                {
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/g_.htm",
+						"name":""
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/g_.htm",
+						"name":""
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/g_.htm",
+						"name":""
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/g_.htm",
+						"name":""
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/g_.htm",
+						"name":""
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/g_.htm",
+						"name":""
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/g_.htm",
+						"name":""
+					}
+	],
+	"GR3RVIMGWIDTH":500,
+	"GR3RVIMGHEIGHT":500,
+	"group3":[
+					
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_ambhibian.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/v_ambhibian.htm",
+						"name":"Ambhibian"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_militarycar.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/v_militarycar.htm",
+						"name":"Jeep"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_monstercar.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/v_monstercar.htm",
+						"name":"Monster-Car"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_moto.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/v_moto.htm",
+						"name":"Moto"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_sportcar.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/v_sportcar.htm",
+						"name":"Sport-Car"
+					},
+					{
+						"picture":"https://appstoremobile.com/Guides/freefire/assets/bb_tuktuk.png",
+						"link":"https://appstoremobile.com/Guides/freefire/assets/v_tuktuk.htm",
+						"name":"Tuk-Tuk"
+					}
+	],
+	"GR4RVIMGWIDTH":500,
+	"GR4RVIMGHEIGHT":500,
+	"group4":[
+					
+					{
+						"picture":"https://play-lh.googleusercontent.com/Eq6t9PpyfiLWYoYxgB1ksTayFBer2PcSZ7Nn8xkk_9PHUxVUXAo1HzdEJywowu1Ar1Qn=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nicksfreeapps",
+						"name":"00"
+					}
+	],
+	
+	"group5":[
+					
+					{
+						"picture":"https://play-lh.googleusercontent.com/Eq6t9PpyfiLWYoYxgB1ksTayFBer2PcSZ7Nn8xkk_9PHUxVUXAo1HzdEJywowu1Ar1Qn=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nicksfreeapps",
+						"name":"00"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/Eq6t9PpyfiLWYoYxgB1ksTayFBer2PcSZ7Nn8xkk_9PHUxVUXAo1HzdEJywowu1Ar1Qn=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nicksfreeapps",
+						"name":"00"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/Eq6t9PpyfiLWYoYxgB1ksTayFBer2PcSZ7Nn8xkk_9PHUxVUXAo1HzdEJywowu1Ar1Qn=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.nickname.nicksfreeapps",
+						"name":"00"
+					}
+	],
+	"more_apps":[
+					{
+						"picture":"https://play-lh.googleusercontent.com/kKBluDZLS5J6S9MIcDJ3GvWTwaiXnzEqeIRYtLxQTSeEszDK11WYOSGug5kvfduSFus=s180-rw",
+						"link":"https://cadeauforu.com/Guides/SignalAssets/05.htm",
+						"name":"Nickname"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/kKBluDZLS5J6S9MIcDJ3GvWTwaiXnzEqeIRYtLxQTSeEszDK11WYOSGug5kvfduSFus=s180-rw",
+						"link":"https://cadeauforu.com/Guides/SignalAssets/05.htm",
+						"name":"Nickname"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/kKBluDZLS5J6S9MIcDJ3GvWTwaiXnzEqeIRYtLxQTSeEszDK11WYOSGug5kvfduSFus=s180-rw",
+						"link":"https://cadeauforu.com/Guides/SignalAssets/05.htm",
+						"name":"Nickname"
+					}
+					
+				
+	]
+        
+       
+
+
+}
